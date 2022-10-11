@@ -1,15 +1,21 @@
 body {
-  background-image: url
-    ("https://i.pinimg.com/564x/fd/7a/96/fd7a9676d976dc8845118d875bbddd63.jpg");
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   font-family: cursive;
   background-color: #9ba6a5;
   background-size: cover;
   text-align: center;
   font-weight: bold;
+}
+
+.background-image {
+  background-image: url("../images/aesthetics.jpg");
+  background-size: ;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-position: center center;
+  background-attachment: fixed;
+  position: relative;
+  display: flex;
+  flex-direction: column;
 }
 
 #signup-form {
