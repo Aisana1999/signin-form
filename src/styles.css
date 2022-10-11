@@ -1,6 +1,7 @@
 body {
   background-image: src=
-    "https://i.pinimg.com/564x/fd/7a/96/fd7a9676d976dc8845118d875bbddd63.jpg";
+    "https://i.pinimg.com/564x/fd/7a/96/fd7a9676d976dc8845118d875bbddd63.jpg"
+    height= "auto" width= "1000px" alt= "Aesthetics";
   font-family: cursive;
   background-color: #9ba6a5;
   background-size: cover;
