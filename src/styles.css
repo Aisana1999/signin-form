@@ -1,7 +1,10 @@
 body {
-  background-image: src=
-    "https://i.pinimg.com/564x/fd/7a/96/fd7a9676d976dc8845118d875bbddd63.jpg"
-    height= "auto" width= "1000px" alt= "Aesthetics";
+  background-image: url
+    ("https://i.pinimg.com/564x/fd/7a/96/fd7a9676d976dc8845118d875bbddd63.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: cursive;
   background-color: #9ba6a5;
   background-size: cover;
@@ -24,12 +27,12 @@ input {
 }
 
 button {
-  background-color: rgb(197, 48, 73);
+  background-color: #cadefc;
   font-size: 20px;
   border-radius: 50px;
   border: solid;
   color: white;
-  border-color: rgb(197, 48, 73);
+  border-color: #cadefc;
   margin-right: 10px;
   margin-top: 20px;
   transition: background-color 0.4s, opacity 0.4s, color 0.4s;
@@ -37,7 +40,7 @@ button {
 }
 button:hover {
   background-color: white;
-  color: rgb(197, 48, 73);
+  color: #c3bef0;
 }
 button:active {
   opacity: 0.5;
