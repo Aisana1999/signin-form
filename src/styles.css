@@ -6,7 +6,7 @@ body {
   font-weight: bold;
 }
 
-.background-image {
+.flowers {
   background-image: url("../images/aesthetics.jpg");
   background-size: cover;
   background-repeat: no-repeat;
